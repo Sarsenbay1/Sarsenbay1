@@ -4,9 +4,6 @@ Hi 👋 I'm Maksat Sarsenbayev
 I'm Node.js backend developer
 --------------------------------------
 
-* 🌍  I'm based in Omsk, Siberia
-* 💼 I'm
-* 🧠  I'm learning Nest.js
 * 🤝  I'm open to collaborating on interesting Node.js projects
 
 <a href="https://www.github.com/Sarsenbay1" target="_blank" rel="noreferrer"><img
