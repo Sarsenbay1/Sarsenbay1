@@ -1,7 +1,7 @@
 Hi 👋 I'm Maksat Sarsenbayev
 ==================================
 
-I'm Node.js backend developer
+I'm backend developer
 --------------------------------------
 
 * 🤝  I'm open to collaborating on interesting Node.js projects
